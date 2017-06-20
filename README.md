@@ -2,6 +2,8 @@
 
 Little webapp to send reminders when your pgp key is going to expire.
 
+[Spec](https://tools.ietf.org/html/draft-shaw-openpgp-hkp-00) on how to query data.
+
 ## Workflow
 * Input keyid or email
 * email sent to address with verification code
