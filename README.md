@@ -14,3 +14,4 @@ Little webapp to send reminders when your pgp key is going to expire.
 * [Mailgun](mailgun.com) is free until lots of email.
 * Write in golang, because learning
 * sqlite db
+* use [hkp](https://github.com/KyleOndy/hkp) for querying data from keyservers.
